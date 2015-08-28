@@ -1,6 +1,14 @@
+**This issue was fixed in version `0.16.2` of JSPM.**
+
+
+
+----------
+
+
+
 Track this issue [https://github.com/jspm/jspm-cli/issues/1068](https://github.com/jspm/jspm-cli/issues/1068).
 
-
+### Description of the issue ###
 
 See my repositories [jspm-issue-03-application](https://github.com/ncochard/jspm-issue-03-application) and [jspm-issue-03-module](https://github.com/ncochard/jspm-issue-03-module).
 
